@@ -1,5 +1,7 @@
-<<<<<<< HEAD
-# Proyecto3D
-=======
-en que proyecto esta hecho esto
->>>>>>> 0269b059 (Primer commit - subida inicial del proyecto)
+# Proyecto 3d
+
+## Integrantes del equipo:
+- Jammal Rodriguez
+- Kevin Valencia
+- Sergio Soto Cervantes
+- Diego Rivera Ramos
